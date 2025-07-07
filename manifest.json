@@ -1,0 +1,20 @@
+{
+  "name": "Samruddhi's Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fce4ec",
+  "theme_color": "#6a1b9a",
+  "icons": [
+    {
+      "src": "icon 1.jfif",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon 2.jfif",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
